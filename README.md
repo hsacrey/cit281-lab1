@@ -7,7 +7,7 @@ I then practiced using the command line interface: ![cmd practice](/lab-01-folde
 I also created my first Node server-side file, seen below.
 
 #### Code Block
-```markdown
+```javascript
 /*
     CIT 281, Lab 1
     Name: Hunter Sacrey
